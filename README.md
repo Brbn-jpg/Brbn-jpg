@@ -12,6 +12,7 @@
 - 🛠️ Self-taught, learning through projects
 - 🔧 Sometimes everything works, sometimes I debug for half a day
 - 🧪 I experiment with different technologies — some stick around longer
+- 🤖 Currently exploring RAG (Retrieval Augmented Generation) systems for AI applications
 
 ---
 
