@@ -1,4 +1,4 @@
-# <div align="center">brbn 👨‍💻</div>
+<div align="center">brbn 👨‍💻</div>
 
 <div align="center">
   Coding, tinkering, learning, and sharing various things.
@@ -8,11 +8,11 @@
 
 ## 🧠 About me
 
-- 🧩 I like backend, but I'm not afraid of frontend
-- 🛠️ Self-taught, learning through projects
-- 🔧 Sometimes everything works, sometimes I debug for half a day
-- 🧪 I experiment with different technologies — some stick around longer
-- 🤖 Currently exploring RAG (Retrieval Augmented Generation) systems for AI applications
+- 🧩 I like backend, but I'm not afraid of frontend  
+- 🛠️ Self-taught, learning through projects  
+- 🔧 Sometimes everything works, sometimes I debug for half a day  
+- 🧪 I experiment with different technologies — some stick around longer  
+- 🤖 Currently exploring RAG (Retrieval Augmented Generation) systems for AI applications  
 
 ---
 
@@ -33,6 +33,9 @@
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=python&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/-LangChain4j-FF6F00?style=flat-square&logo=java&logoColor=white" alt="LangChain4j" />
 </div>
 
 ---
