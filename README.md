@@ -1,4 +1,4 @@
-# <div align="center">brbn 👨‍💻</div>
+# <div align="center">brbn</div>
 
 <div align="center">
   Coding, tinkering, learning, and sharing various things.
@@ -6,17 +6,17 @@
 
 ---
 
-## 🧠 About me
+## About me
 
-- 🧩 I like backend, but I'm not afraid of frontend  
-- 🛠️ Self-taught, learning through projects  
-- 🔧 Sometimes everything works, sometimes I debug for half a day  
-- 🧪 I experiment with different technologies — some stick around longer  
-- 🤖 I understand RAG (Retrieval Augmented Generation) systems and how to apply them in AI projects
+- I like backend, but I'm not afraid of frontend  
+- Self-taught, learning through projects  
+- Sometimes everything works, sometimes I debug for half a day  
+- I experiment with different technologies — some stick around longer  
+- I understand RAG (Retrieval Augmented Generation) systems and how to apply them in AI projects
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 ### Languages:
 <div align="left">
