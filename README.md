@@ -12,7 +12,7 @@
 - Self-taught, learning through projects  
 - Sometimes everything works, sometimes I debug for half a day  
 - I experiment with different technologies — some stick around longer  
-- I understand RAG (Retrieval Augmented Generation) systems and how to apply them in AI projects
+- RAG and GPU enjoyer
 
 ---
 
