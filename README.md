@@ -39,4 +39,4 @@ Coding, tinkering, learning, and sharing various things.
 
 ## 📬 Contact
 📧 **Email:** [kubon.kuznicki@gmail.com](mailto:kubon.kuznicki@gmail.com)  
-💬 **Discord:** brbn_jpg
+💬 **Discord:** [brbn_jpg](https://discord.com/users/299610041642647573)
