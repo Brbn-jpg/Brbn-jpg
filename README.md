@@ -36,6 +36,7 @@
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/-LangChain-000000?style=flat-square&logo=python&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/-LangChain4j-FF6F00?style=flat-square&logo=java&logoColor=white" alt="LangChain4j" />
+  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
 ---
